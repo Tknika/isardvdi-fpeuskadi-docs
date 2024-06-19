@@ -26,11 +26,11 @@ Kasu hauetarako, moodlen erabiltzaile bakoitzak modulo bakoitzean erabili behar 
 
 ![course-custom-fields](./images-moodle//7dy_Image_2.png)
 
-4. Kurtsoan eremu pertsonalizatu bat gehitzen denean, ikastaroko fitxan agertu ez dadin, irudian agertzen den css kodea gehitu behar da:
+5. Kurtsoan eremu pertsonalizatu bat gehitzen denean, ikastaroko fitxan agertu ez dadin, irudian agertzen den css kodea gehitu behar da:
 
 ![custom-css](./images-moodle//kJF_Image_3.png)
 
-5. VDIen loturak publikatu nahi diren ikastaroetan Etiketa motako jarduera bat gehitu. Editatu ta Testu editorean html kodea gehitu da eta FilterCode Tags hau erabiliko da:  ```{profile_field_shortname}```
+6. VDIen loturak publikatu nahi diren ikastaroetan Etiketa motako jarduera bat gehitu. Editatu ta Testu editorean html kodea gehitu da eta FilterCode Tags hau erabiliko da:  ```{profile_field_shortname}```
 
 HTML kodea adibidea:
 
