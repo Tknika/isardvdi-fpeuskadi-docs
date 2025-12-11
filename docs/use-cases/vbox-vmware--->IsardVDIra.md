@@ -126,7 +126,7 @@ Azken pausoa, mahaigain hau txantiloi bihurtzea litzake, dagokion izena eman (Me
 ![Txantilloi gisa, jendeak erabili dezan](images-vbox-vmware/11_txantiloiBihurtu.png "Txantiloi bihurtu")
 
 > Inor adibide konkretu hau jarraitzen ari bada Metasploitable2 erabiliz, guri azken arazo bat sortu zitzaigun: erabiltzera gindoazenean (mahaigaina jada ondo piztuta), ez zuen sarerik ikusten. Oraingoan konponbidea (eta arazoa) Isard-en sare modeloetan dago: Jarrita genuen openVSwitch->*virtio* sarea ez zuen ikusten, *e100* jarri genuenean, dena ondo. 
-<img src="meimages-vbox-vmwaredia/13_sareMotakIsarden.png" 
+<img src="images-vbox-vmware/13_sareMotakIsarden.png" 
 alt="e100 sare modeloa aukeratu" 
 style="width:80%;"/>
 
