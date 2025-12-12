@@ -1,5 +1,5 @@
 # Nola konektatu lizentziak FPCloudekin
-Hurrengo manuala azaltzen da zelan konektatu lizentziak zerbitzari batetik
+Hurrengo manualean Lizentziak Zerbitzari batera nola konektatu azaltzen da 
 
 Domains-en barruan, Resources atalean
 
@@ -42,6 +42,6 @@ Sakatu Aktibatu eta lizentziak ikusi beharko lirateke
 
 ![aktibatu](./images-lizentziak/aktibatu.png)
 
-Softwarea instalatzean, VPN IParena (10.0.0.24 eman diguna) eman behar zaio, ez lizentzia-zerbitzariarena.
+Softwarea instalatzean, VPN IPa (10.0.0.24 eman diguna) eman behar zaio, ez lizentzia-zerbitzariarena.
 
 ![remote-vpn-4](./images-lizentziak/remote-vpn-4.png)
